@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chirathkdev
-- 👀 I’m interested in Native iOS Development, Cloud Computing and DevOps work. 
-- 🌱 I’m currently learning SwiftUI, Kubernetes and other DevOps tools to grow in mobile full stack development.
-- 💞️ I’m looking to collaborate on any mobile full stack project. 
+- 👀 I’m interested in Spring Booot, Cloud Native Web Apps, iOS Development and DevOps work. 
+- 🌱 I’m currently learning Prompt Engineering, Agentic Workflows and other AI driven tools and methodologies.
+- 💞️ I’m looking to collaborate on any full stack project. 
 - 📫 How to reach me chirathkdev@gmail.com
 
 <!---
